@@ -1,0 +1,16 @@
+name: sentinel_watermark
+description: 风云T8哨兵水印工具
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+  path_provider: ^2.1.3
+  share_plus: ^9.0.0
+
+flutter:
+  uses-material-design: true
